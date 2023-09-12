@@ -1,5 +1,4 @@
 import requests
-import os
 
 # url = "http://www.google.com/"
 # res = requests.get(url)
